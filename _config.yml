@@ -22,3 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+domain: datakonoha.github.io
+url: https://datakonoha.github.io
+baseurl: /test1/
